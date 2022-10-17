@@ -1,0 +1,138 @@
+2022-10-04 11:02:14,740 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-04 11:02:17,932 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Passed
+2022-10-04 11:02:39,297 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-04 11:02:43,919 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Passed
+2022-10-04 11:03:43,764 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-04 11:03:46,551 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Passed
+2022-10-04 16:41:16,840 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-04 16:41:42,735 +0530 [main] INFO  (TC_LoginTest_001.java:29) - Passed
+2022-10-04 16:44:12,169 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-04 16:44:15,853 +0530 [main] INFO  (TC_LoginTest_001.java:29) -  Test is  Passed
+2022-10-06 17:06:08,250 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-06 17:06:16,917 +0530 [main] INFO  (TC_LoginTest_001.java:29) -  Test is  Passed
+2022-10-06 17:08:29,313 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-06 17:08:32,414 +0530 [main] INFO  (TC_LoginTest_001.java:29) -  Test is  Passed
+2022-10-06 17:10:05,056 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Page is Open
+2022-10-06 17:10:09,326 +0530 [main] INFO  (TC_LoginTest_001.java:29) -  Test is  Passed
+2022-10-07 17:09:48,397 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:09:48,485 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:09:53,663 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:10:53,460 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:10:53,523 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:10:58,565 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:11:51,407 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:11:51,472 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:11:56,335 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:16:23,408 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:16:23,518 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:16:30,033 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:21:00,993 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:21:01,054 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:21:07,615 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:24:09,020 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:24:09,099 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:24:14,268 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:25:24,994 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:25:25,106 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:25:32,258 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:26:24,277 +0530 [main] INFO  (TC_AddNewCust_002.java:17) - UserName is provided
+2022-10-07 17:26:24,489 +0530 [main] INFO  (TC_AddNewCust_002.java:19) - Password is provided
+2022-10-07 17:26:31,351 +0530 [main] INFO  (TC_AddNewCust_002.java:26) - Provide the Customer Data
+2022-10-07 17:27:03,598 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-07 17:27:03,684 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-07 17:27:08,861 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-07 17:29:22,347 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-07 17:29:22,430 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-07 17:29:27,517 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-07 17:30:45,149 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-07 17:30:45,225 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-07 17:30:51,124 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-07 18:28:32,078 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Page is Open
+2022-10-07 18:28:34,791 +0530 [main] INFO  (TC_LoginTest_001.java:31) -  Test is  Passed
+2022-10-07 18:28:34,798 +0530 [main] INFO  (TC_LoginTest_001.java:42) - Provide the Customer Data
+2022-10-07 18:42:03,982 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-07 18:42:09,067 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-07 18:42:47,512 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-07 18:42:47,593 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-07 18:42:52,470 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-07 18:43:38,858 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-07 18:43:38,949 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-07 18:43:43,298 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:21:07,635 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:21:07,720 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:22:15,037 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:22:15,109 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:22:17,855 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:22:40,147 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:22:40,225 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:22:42,158 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:23:43,451 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:23:43,525 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:23:48,005 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:24:50,864 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:24:50,969 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:24:53,601 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:27:24,151 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:27:24,217 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:27:26,969 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:28:26,177 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:28:26,253 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:28:28,452 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:28:36,473 +0530 [main] INFO  (TC_AddNewCust_002.java:45) - Validattion is Started
+2022-10-08 08:28:36,485 +0530 [main] INFO  (TC_AddNewCust_002.java:51) - Test Case is Passed
+2022-10-08 08:29:12,139 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:29:12,210 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:29:15,221 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:29:21,727 +0530 [main] INFO  (TC_AddNewCust_002.java:45) - Validattion is Started
+2022-10-08 08:34:42,844 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-08 08:34:42,912 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-08 08:34:47,060 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-08 08:34:56,920 +0530 [main] INFO  (TC_AddNewCust_002.java:45) - Validattion is Started
+2022-10-08 08:34:56,935 +0530 [main] INFO  (TC_AddNewCust_002.java:51) - Test Case is Passed
+2022-10-11 08:50:30,064 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 08:50:32,636 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 08:50:39,519 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 08:50:39,585 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 08:50:42,914 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 08:50:53,387 +0530 [main] INFO  (TC_AddNewCust_002.java:45) - Validattion is Started
+2022-10-11 08:50:53,416 +0530 [main] INFO  (TC_AddNewCust_002.java:51) - Test Case is Passed
+2022-10-11 08:52:26,781 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 08:52:30,423 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 08:52:37,511 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 08:52:37,636 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 08:52:40,751 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:15:50,961 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:15:55,579 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:16:04,365 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:16:04,438 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:16:18,293 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:17:19,318 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:17:23,686 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:17:31,227 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:17:31,292 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:17:36,538 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:19:56,534 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:20:00,819 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:20:08,498 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:20:08,562 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:20:16,187 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:20:49,058 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:20:53,522 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:21:07,738 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:21:07,868 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:21:11,527 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:22:06,849 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:22:11,329 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:22:20,755 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:22:20,841 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:22:30,302 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:24:19,306 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:24:24,500 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:24:36,810 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:24:36,908 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:24:40,723 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data
+2022-10-11 09:26:49,828 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Page is Open
+2022-10-11 09:26:53,229 +0530 [main] INFO  (TC_LoginTest_001.java:30) -  Test is  Passed
+2022-10-11 09:27:06,223 +0530 [main] INFO  (TC_AddNewCust_002.java:18) - UserName is provided
+2022-10-11 09:27:06,316 +0530 [main] INFO  (TC_AddNewCust_002.java:20) - Password is provided
+2022-10-11 09:27:12,283 +0530 [main] INFO  (TC_AddNewCust_002.java:27) - Provide the Customer Data

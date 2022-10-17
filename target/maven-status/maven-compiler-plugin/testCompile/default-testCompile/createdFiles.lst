@@ -1,0 +1,7 @@
+Com\InetBanking\TestCases\TC_AddNewCust_002.class
+Com\InetBanking\TestCases\BaseClass.class
+Com\InetBanking\PageObject\AddCustPage.class
+Com\InetBanking\TestCases\TC_LoginTest_001.class
+Com\InetBanking\Utilities\Reporting.class
+Com\InetBanking\PageObject\LoginPage.class
+Com\InetBanking\Utilities\ReadConfig.class
